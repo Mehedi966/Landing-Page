@@ -1,0 +1,110 @@
+.navbar-nav{
+    font-size: 1.3rem;
+    padding-left: 600px;
+}
+.navbar-brand img{
+   
+    height: 70px;
+    width: 200px;
+}
+.navbar-brand{
+    padding-left:200px;
+}
+ .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgba(0, 0, 0, 0.267);
+}
+.navbar-light .navbar-nav .active>.nav-link{
+    color: gray;
+}
+.navbar-light .navbar-nav .active>.nav-link:hover{
+    color: black;
+}
+.sign-in{
+    padding: 5px;
+    border: none;
+    border-radius: 20px;
+    background-color: #4CAF50;;
+    color:white !important;
+}
+.redp{
+ color: red;
+}
+.any{
+    color: green;
+}
+.back{
+    background-color: #f8f9fa!important;
+}
+.first-section{
+background-color: #f8f9fa!important;
+}
+
+.btn-new{
+    font-size: 1.3rem;
+    padding: 5px;
+    border: none;
+    border-radius: 20px;
+    background-color: #4CAF50;;
+    color:white !important;
+
+}
+.container{
+    margin-bottom: 100px;
+}
+.card1{
+    border-radius: 10px;
+    border: none;
+    background-color:#f8f9fa ;
+}
+.card1 h5,p{
+    text-align: center;
+}
+.card1 img{
+   
+    padding-left: 90px;
+    padding-top:30px;
+    height: 100px;
+    width: 160px;
+}
+.b-shadow{
+    box-shadow: 5px 5px 10px lightgray;
+    background-color: white;
+}
+.text-left{
+    text-align: left;
+}
+.col-img img{
+height: 30px;
+width: 30px;
+}
+.courses,.testomonial,.footer{
+    text-align: center;
+}
+.test1{
+    padding-left:260px;
+
+}
+.test1 img{
+    height: 120px !important;
+    width: 140px !important;
+}
+.lorem{
+    padding-top: 20px !important;
+   
+}
+.last-p{
+    padding-top: 60px;
+    text-align: center;
+  align-items: center;
+}
+.Last-work{
+    background-color: rgb(32, 31, 31);
+}
+.wh{
+    color: white;
+}
+.d-flex img {
+    height: 209px ;
+   
+}
+

@@ -1,3 +1,4 @@
+
 .navbar-nav{
     font-size: 1.3rem;
     padding-left: 600px;
@@ -107,4 +108,36 @@ width: 30px;
     height: 209px ;
    
 }
+.my-btn{
+    align-items: center;
+    height: 250px;
+    width: ;
+    background-image: url("images/contact.jpg");
+   
+}
+.my-btn h3{
+padding-top: 60px;
+}
+.my-btn a{
+    
+ display: block;
+ height: ;
+ width: ;
+  color: #fff;
+  
+  background-color: #ff6a00 !important; 
+ 
+}
+.first-section{
+    padding-top: 100px;
+}
+.icon-bar img{
+    height: 50px;
+    width: 50px;
+}
+.icon-bar2 img{
+    height: 50px;
+    width: 50px;
+}
+
 
